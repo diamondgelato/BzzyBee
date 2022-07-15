@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SimpleBoi.unity
+    guid: cef4f543c9033d34590d448240c3293d
+  - enabled: 1
+    path: Assets/Scenes/MovingLanding.unity
+    guid: b62fa744349e11540af4a863368e3196
+  - enabled: 1
+    path: Assets/Scenes/Fly Through.unity
+    guid: ce28950ae76ee0146969e3eda2208a37
+  - enabled: 1
+    path: Assets/Scenes/Tunnel.unity
+    guid: f538446006c7ef2469a1604d07c456eb
+  - enabled: 1
+    path: Assets/Scenes/AppearDisappear.unity
+    guid: 0ce238e6463dde64c9a14d531ced97ff
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9e7f79ba83343024887e310347ea428d
+  - enabled: 1
+    path: Assets/Scenes/Multiple Oscillators.unity
+    guid: 260b74f52dddbd3458217aed7c1fd271
   m_configObjects: {}
